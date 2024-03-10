@@ -1,0 +1,2 @@
+-   Information files can be found in [docs/](src/client/docs/).
+-   Website can be found at https://bpa.v2.lovelyjacob.com
